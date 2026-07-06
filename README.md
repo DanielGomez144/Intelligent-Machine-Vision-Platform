@@ -1,8 +1,8 @@
-# Intelligent Machine Vision Platform
+Intelligent Machine Vision Platform
 
 A computer vision platform that integrates multiple AI-based modules for real-world applications.
 
-## 🚀 Features
+->Features
 
 - Defect Detection
 - Personal Protective Equipment (PPE) Detection
@@ -10,11 +10,11 @@ A computer vision platform that integrates multiple AI-based modules for real-wo
 - Pose Estimation
 - Smart Parking System
 
-## 🧠 Technologies
+->Technologies
 
 - Python
 - OpenCV
 - Deep Learning
 - Computer Vision
 
-## 📁 Project Structure
+->Project Structure
